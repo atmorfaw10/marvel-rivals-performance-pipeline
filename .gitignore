@@ -1,0 +1,11 @@
+.idea/
+.venv/
+marvel_rivals_data/
+anonymized_map.json
+events.jsonl
+user_file.json
+notebook.ipynb
+notebook1.ipynb
+*.ipynb_checkpoints/
+.env
+.DS_Store
